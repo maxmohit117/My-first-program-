@@ -1,6 +1,7 @@
 *{
   font-weight: bold;
-  
+  min-height:100vh;
+  margin: 500px;
 }
 
 #point {
