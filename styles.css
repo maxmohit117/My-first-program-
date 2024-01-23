@@ -1,6 +1,6 @@
 *{
   font-weight: bold;
-  margin: 500px;
+  margin: 200px;
 }
 
 #point {
@@ -33,8 +33,7 @@ button {
 }
 
 button:hover {
-  width: 60px;
-  height: 70px;
+  top: 10px;
   animation: oba 2s infinite;
 }
 
